@@ -92,9 +92,7 @@
 <a href="https://github.com/wangwenzhiwwz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz&show_icons=true" />
 </a>
-<a href="https://github.com/wangwenzhiwwz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html" />
-</a>
+
 
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
