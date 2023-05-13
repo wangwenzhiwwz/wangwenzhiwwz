@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 WANGWENZHI </h1>
-
-![github_cover_banner](https://wangwenzhi.eu.org/images/images/wangwenzhi.jpeg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    
@@ -94,61 +89,9 @@
 <br>
 <br>
 
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #44AEFB">🎦 Wangwenzhi YouTube Videos</h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=6ba_homr8Vo)
-[![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=rs5Z3uc0RMU&title=The+Fundamentals+of+Web+Development+-+REST+APIs%2C+HTTP+Requests%2C+Databases%2C+Frontend%2C+and+Backend&lang=en&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend")](https://www.youtube.com/watch?v=rs5Z3uc0RMU)
-[![Olympic Clean Personal Record 135 KG | Maxing Out](https://ytcards.demolab.com/?id=7LGrv4xa0Tc&title=Olympic+Clean+Personal+Record+135+KG+%7C+Maxing+Out&lang=en&timestamp=1679754700&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Olympic Clean Personal Record 135 KG | Maxing Out")](https://www.youtube.com/watch?v=7LGrv4xa0Tc)
-[![Front Squat 180 kg 397 lbs.](https://ytcards.demolab.com/?id=1iEfWvpc9Gk&title=Front+Squat+180+kg+397+lbs.&lang=en&timestamp=1679754599&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Front Squat 180 kg 397 lbs.")](https://www.youtube.com/watch?v=1iEfWvpc9Gk)
-[![Back Squat 180 KG 396 lbs  | 3rd Set](https://ytcards.demolab.com/?id=RD9gDC5Xh1k&title=Back+Squat+180+KG+396+lbs++%7C+3rd+Set&lang=en&timestamp=1679754466&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Back Squat 180 KG 396 lbs  | 3rd Set")](https://www.youtube.com/watch?v=RD9gDC5Xh1k)
-[![Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up](https://ytcards.demolab.com/?id=QPwowof0p9c&title=Sumo+Deadlift+260+KG+573+lbs+%7C+Full+Deadlift+Training+Session+%7C+Including+Warm-Up&lang=en&timestamp=1679753486&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up")](https://www.youtube.com/watch?v=QPwowof0p9c)
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
 
 
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz)](https://github.com/wangwenzhiwwz)
 
 ---
 <!-- Begin Footer -->
