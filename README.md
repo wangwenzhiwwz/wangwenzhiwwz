@@ -93,6 +93,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz)](https://github.com/wangwenzhiwwz)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
