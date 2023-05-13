@@ -90,15 +90,11 @@
 <br>
 
 <a href="https://github.com/wangwenzhiwwz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz&show_icons=true" />
 </a>
 <a href="https://github.com/wangwenzhiwwz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
