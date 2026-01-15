@@ -37,7 +37,7 @@
 
 ### 📊 Analytics
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wangwenzhiwwz&theme=tokyonight&hide_border=true&background=00000000)
+![Stats](https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz)
 
 <br />
 
