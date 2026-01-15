@@ -37,14 +37,7 @@
 
 ### 📊 Analytics
 
-<div align="center">
-  <a href="https://github.com/wangwenzhiwwz">
-    <img src="https://github-readme-stats.vercel.app/api?username=wangwenzhiwwz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff" alt="Stats" height="180" />
-  </a>
-  <a href="https://github.com/wangwenzhiwwz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangwenzhiwwz&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&title_color=79c0ff&text_color=c9d1d9" alt="Languages" height="180" />
-  </a>
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wangwenzhiwwz&theme=tokyonight&hide_border=true&background=00000000)
 
 <br />
 
